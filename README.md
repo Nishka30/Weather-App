@@ -2,7 +2,7 @@
 Clone the Project: Clone the repository to your local machine using the following command:
 
 
-git clone https://github.com/Nishka30
+git clone https:https://github.com/Nishka30/Weather-App
 
 Create a .env File: Create a .env file in the root folder of the project and add the following line:
 
